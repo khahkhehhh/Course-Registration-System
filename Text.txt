@@ -1,0 +1,7 @@
+6
+SECP2523,Database,Sunday,Dr. Aryati,A01,2,MPK9,8am-10am
+SECJ2013,Data Structure & Algorithm,Monday,Dr Pang Yee Yong,A002,2,MPK10,10am-12pm
+SECR1213,Network Communication,Tuesday,Mr Firoz,A003,2,Gym,2pm-4pm
+SECP3723,System Development Technology,Wednesday,Dr Haza Nuzly,A004,4,MPK7,9pm-1pm
+SECP2613,System Analysis & Design,Thursday,Dr Muhd Iqbal Tariq,A005,2,MPK2,11pm-1pm
+UHLB2122,English Academic Skills,Friday,Dr Johana,A006,2,BK4,9am-11am
